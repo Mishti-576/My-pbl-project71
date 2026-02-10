@@ -29,5 +29,5 @@ Add screenshots here.
 Pull requests are welcome.
 
 ## License
-MIT# My-pbl-project71
-My first pbl project that i have made using lovable and other AI tools 
+MIT
+
